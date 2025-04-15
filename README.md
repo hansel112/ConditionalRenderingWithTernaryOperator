@@ -1,0 +1,2 @@
+# ConditionalRenderingWithTernaryOperator
+Created with CodeSandbox
